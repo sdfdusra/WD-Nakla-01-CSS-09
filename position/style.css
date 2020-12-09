@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+.boxOuter{
+    background-color: green;
+    width: 400px;
+    height: 200px;
+    position: fixed;
+    top: 50px;
+    left: 0px;
+}
